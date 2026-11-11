@@ -1,0 +1,5 @@
+bin/
+*.class
+data/expenses.csv
+.vscode/
+.idea/
